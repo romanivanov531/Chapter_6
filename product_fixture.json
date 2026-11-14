@@ -1,0 +1,28 @@
+[
+{
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+        "name": "1231231",
+        "description": "123123",
+        "image": "photos/Снимок_экрана_от_2026-11-04_20-21-46.png",
+        "category": 1,
+        "price": 123,
+        "created_at": "2026-11-12",
+        "updated_at": "2026-11-12"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+        "name": "121412412",
+        "description": "124124124",
+        "image": "photos/Снимок_экрана_от_2026-11-04_21-24-54.png",
+        "category": 1,
+        "price": 124124,
+        "created_at": "2026-11-12",
+        "updated_at": "2026-11-12"
+    }
+}
+]
